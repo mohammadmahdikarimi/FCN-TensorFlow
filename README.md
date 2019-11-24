@@ -1,4 +1,4 @@
-# Fully-Convolutional Network in TensorFlow
+# Fully-Convolutional Network in TensorFlow (Custom)
 
 ## Script
 
@@ -26,4 +26,4 @@ MIT
 
 In case of any issues, feel free to drop me an email or open an issue on the repository.
 
-Email: **shoaib_ahmed.siddiqui@dfki.de**
+Email: **mkarimi@nvidia.com**
